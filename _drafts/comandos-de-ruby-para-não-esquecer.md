@@ -1,20 +1,23 @@
 ---
 layout: post
-title: Comandos de ruby para não esquecer
+title: Comandos de Ruby para não esquecer
+date: 2023-12-27 04:51 -0300
+categories: [Blogging, Tutorial]
+pin: true
 ---
-## Comandos de ruby para não esquecer
 
-Executar o projeto
+
+### Executar o projeto
 ```ruby
 bundle exec jekyll s
 ```
 
-Parar de rodar o servidor
+### Parar de rodar o servidor
 ```ruby
 ctrl + c
 ```
 
-## Criar novas postagens
+### Criar novas postagens
 
 Novo post
 ```ruby
