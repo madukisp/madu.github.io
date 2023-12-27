@@ -3,8 +3,8 @@ setlocal enabledelayedexpansion
 
 set /p POST_TITLE="Digite o título do post: "
 set /p POST_AUTHOR="Digite o autor do post: "
-set /p POST_CATEGORIES="Digite as categorias do post (separadas por vírgula): "
-set /p POST_TAGS="Digite as tags do post (separadas por vírgula): "
+set /p POST_CATEGORIES="Digite as categorias do post (CATEGORIA_PRINCIPAL, SUBCATEGORIA separadas por vírgula): "
+set /p POST_TAGS="Digite as tags do post (separadas por vírgula e letras minúsculas): "
 
 rem Convertendo espaço em hífen
 set "FORMATTED_TITLE=%POST_TITLE: =-%"

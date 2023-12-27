@@ -1,5 +1,5 @@
 ---
-title: "Intelig�ncia Artificial"
+title: "Inteligência Artificial"
 author: amanda
 date: 2023-12-27 04:51 -0300
 categories: [ia]
